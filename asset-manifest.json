@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/esteticaDeLasJotas/static/css/main.de8c644d.css",
+    "main.js": "/esteticaDeLasJotas/static/js/main.9fd97cdb.js",
+    "static/js/453.c5dcb103.chunk.js": "/esteticaDeLasJotas/static/js/453.c5dcb103.chunk.js",
+    "static/media/galeria5.png": "/esteticaDeLasJotas/static/media/galeria5.3ab647a7225d562371c6.png",
+    "static/media/fondoParallax.jpeg": "/esteticaDeLasJotas/static/media/fondoParallax.fc9ed2452150e62e1210.jpeg",
+    "static/media/galeria3.jpg": "/esteticaDeLasJotas/static/media/galeria3.826a749350bbdfa26d1c.jpg",
+    "static/media/galeria4.webp": "/esteticaDeLasJotas/static/media/galeria4.283d72221d8937b71ba3.webp",
+    "static/media/galeria2.webp": "/esteticaDeLasJotas/static/media/galeria2.0eca994bcdaafb0e03bb.webp",
+    "static/media/galeria1.jpg": "/esteticaDeLasJotas/static/media/galeria1.f3f0b0a200125c708695.jpg",
+    "static/media/galeria6.jpg": "/esteticaDeLasJotas/static/media/galeria6.905adef928993d39d4f6.jpg",
+    "index.html": "/esteticaDeLasJotas/index.html",
+    "main.de8c644d.css.map": "/esteticaDeLasJotas/static/css/main.de8c644d.css.map",
+    "main.9fd97cdb.js.map": "/esteticaDeLasJotas/static/js/main.9fd97cdb.js.map",
+    "453.c5dcb103.chunk.js.map": "/esteticaDeLasJotas/static/js/453.c5dcb103.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8c644d.css",
+    "static/js/main.9fd97cdb.js"
+  ]
+}
