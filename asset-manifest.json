@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/esteticaDeLasJotas/static/css/main.de8c644d.css",
-    "main.js": "/esteticaDeLasJotas/static/js/main.9fd97cdb.js",
+    "main.js": "/esteticaDeLasJotas/static/js/main.c5a778b9.js",
     "static/js/453.c5dcb103.chunk.js": "/esteticaDeLasJotas/static/js/453.c5dcb103.chunk.js",
     "static/media/galeria5.png": "/esteticaDeLasJotas/static/media/galeria5.3ab647a7225d562371c6.png",
     "static/media/fondoParallax.jpeg": "/esteticaDeLasJotas/static/media/fondoParallax.fc9ed2452150e62e1210.jpeg",
@@ -12,11 +12,11 @@
     "static/media/galeria6.jpg": "/esteticaDeLasJotas/static/media/galeria6.905adef928993d39d4f6.jpg",
     "index.html": "/esteticaDeLasJotas/index.html",
     "main.de8c644d.css.map": "/esteticaDeLasJotas/static/css/main.de8c644d.css.map",
-    "main.9fd97cdb.js.map": "/esteticaDeLasJotas/static/js/main.9fd97cdb.js.map",
+    "main.c5a778b9.js.map": "/esteticaDeLasJotas/static/js/main.c5a778b9.js.map",
     "453.c5dcb103.chunk.js.map": "/esteticaDeLasJotas/static/js/453.c5dcb103.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de8c644d.css",
-    "static/js/main.9fd97cdb.js"
+    "static/js/main.c5a778b9.js"
   ]
 }
